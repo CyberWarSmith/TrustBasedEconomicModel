@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <!-- Foundational Social Identity and Ingroup Bias Literature -->
+  <b:Source>
+    <b:Tag>TajfelTurner1979</b:Tag>
+    <b:SourceType>BookSection</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Tajfel</b:Last>
+          <b:First>Henri</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Turner</b:Last>
+          <b:First>John C.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>An integrative theory of intergroup conflict</b:Title>
+    <b:BookTitle>The social psychology of intergroup relations</b:BookTitle>
+    <b:Year>1979</b:Year>
+    <b:Publisher>Brooks Cole</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Brewer1999</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Brewer</b:Last>
+          <b:First>Marilynn B.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>The psychology of prejudice: Ingroup love or outgroup hate</b:Title>
+    <b:JournalName>Journal of Social Issues</b:JournalName>
+    <b:Year>1999</b:Year>
+    <b:Volume>55</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Pages>429-444</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>KurzbanToobyCosmides2001</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Kurzban</b:Last>
+          <b:First>Robert</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Tooby</b:Last>
+          <b:First>John</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Cosmides</b:Last>
+          <b:First>Leda</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Can race be erased? Coalitional computation and social categorization</b:Title>
+    <b:JournalName>Proceedings of the National Academy of Sciences</b:JournalName>
+    <b:Year>2001</b:Year>
+    <b:Volume>98</b:Volume>
+    <b:Issue>26</b:Issue>
+    <b:Pages>15387-15392</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Fiske1998</b:Tag>
+    <b:SourceType>BookSection</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Fiske</b:Last>
+          <b:First>Susan T.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Stereotyping, prejudice, and discrimination</b:Title>
+    <b:BookTitle>The handbook of social psychology</b:BookTitle>
+    <b:Year>1998</b:Year>
+    <b:Publisher>McGraw Hill</b:Publisher>
+  </b:Source>
+
+  <!-- Trust, Reputation, and Cooperation Literature -->
+  <b:Source>
+    <b:Tag>Hardin2002</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Hardin</b:Last>
+          <b:First>Russell</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Trust and trustworthiness</b:Title>
+    <b:Year>2002</b:Year>
+    <b:Publisher>Russell Sage Foundation</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Ostrom1990</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Ostrom</b:Last>
+          <b:First>Elinor</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Governing the commons: The evolution of institutions for collective action</b:Title>
+    <b:Year>1990</b:Year>
+    <b:Publisher>Cambridge University Press</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Gambetta1988</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Gambetta</b:Last>
+          <b:First>Diego</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Trust: Making and breaking cooperative relations</b:Title>
+    <b:Year>1988</b:Year>
+    <b:Publisher>Blackwell</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Burt2001</b:Tag>
+    <b:SourceType>BookSection</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Burt</b:Last>
+          <b:First>Ronald S.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Structural holes versus network closure as social capital</b:Title>
+    <b:BookTitle>Social capital: Theory and research</b:BookTitle>
+    <b:Year>2001</b:Year>
+    <b:Publisher>Aldine de Gruyter</b:Publisher>
+  </b:Source>
+
+  <!-- Behavioural Exclusion, Moral Boundaries, and Group Identity -->
+  <b:Source>
+    <b:Tag>Brewer2007</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Brewer</b:Last>
+          <b:First>Marilynn B.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>The importance of being we: Human nature and intergroup relations</b:Title>
+    <b:JournalName>American Psychologist</b:JournalName>
+    <b:Year>2007</b:Year>
+    <b:Volume>62</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Pages>728-738</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>ChenLi2009</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Chen</b:Last>
+          <b:First>Yan</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Li</b:Last>
+          <b:First>Sherry Xin</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Group identity and social preferences</b:Title>
+    <b:JournalName>American Economic Review</b:JournalName>
+    <b:Year>2009</b:Year>
+    <b:Volume>99</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Pages>431-457</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Opotow1990</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Opotow</b:Last>
+          <b:First>Susan</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Moral exclusion and injustice</b:Title>
+    <b:JournalName>Journal of Social Issues</b:JournalName>
+    <b:Year>1990</b:Year>
+    <b:Volume>46</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Pages>1-20</b:Pages>
+  </b:Source>
+
+  <!-- Game Theory and Evolution of Cooperation -->
+  <b:Source>
+    <b:Tag>Axelrod1984</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Axelrod</b:Last>
+          <b:First>Robert</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>The evolution of cooperation</b:Title>
+    <b:Year>1984</b:Year>
+    <b:Publisher>Basic Books</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Nowak2006</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Nowak</b:Last>
+          <b:First>Martin A.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Five rules for the evolution of cooperation</b:Title>
+    <b:JournalName>Science</b:JournalName>
+    <b:Year>2006</b:Year>
+    <b:Volume>314</b:Volume>
+    <b:Issue>5805</b:Issue>
+    <b:Pages>1560-1563</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>FehrGaechter2000</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Fehr</b:Last>
+          <b:First>Ernst</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Gächter</b:Last>
+          <b:First>Simon</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Cooperation and punishment in public goods experiments</b:Title>
+    <b:JournalName>American Economic Review</b:JournalName>
+    <b:Year>2000</b:Year>
+    <b:Volume>90</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Pages>980-994</b:Pages>
+  </b:Source>
+
+  <!-- Sybil Attacks, Reputation Systems, and Identity Integrity -->
+  <b:Source>
+    <b:Tag>FriedmanResnick2001</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Friedman</b:Last>
+          <b:First>Eric J.</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Resnick</b:Last>
+          <b:First>Paul</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>The social cost of cheap pseudonyms</b:Title>
+    <b:JournalName>Journal of Economics and Management Strategy</b:JournalName>
+    <b:Year>2001</b:Year>
+    <b:Volume>10</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Pages>173-199</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>Dellarocas2003</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Dellarocas</b:Last>
+          <b:First>Chrysanthos</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>The digitization of word-of-mouth: Promise and challenges of online reputation systems</b:Title>
+    <b:JournalName>Management Science</b:JournalName>
+    <b:Year>2003</b:Year>
+    <b:Volume>49</b:Volume>
+    <b:Issue>10</b:Issue>
+    <b:Pages>1407-1424</b:Pages>
+  </b:Source>
+
+  <!-- Cryptographic Parallels and Verifiable Trust -->
+  <b:Source>
+    <b:Tag>MiersEtAl2013</b:Tag>
+    <b:SourceType>ConferenceProceedings</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Miers</b:Last>
+          <b:First>Ian</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Garman</b:Last>
+          <b:First>Christina</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Green</b:Last>
+          <b:First>Matthew</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Rubin</b:Last>
+          <b:First>Aviel D.</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Zerocoin: Anonymous distributed e-cash from Bitcoin</b:Title>
+    <b:ConferenceName>IEEE Symposium on Security and Privacy</b:ConferenceName>
+    <b:Year>2013</b:Year>
+    <b:Pages>397-411</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>BenSassonEtAl2014</b:Tag>
+    <b:SourceType>ConferenceProceedings</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Ben-Sasson</b:Last>
+          <b:First>Eli</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Chiesa</b:Last>
+          <b:First>Alessandro</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Tromer</b:Last>
+          <b:First>Erik</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Virza</b:Last>
+          <b:First>Madars</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Succinct non-interactive zero knowledge for a von Neumann architecture</b:Title>
+    <b:ConferenceName>USENIX Security Symposium</b:ConferenceName>
+    <b:Year>2014</b:Year>
+    <b:Pages>781-796</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>W3CVC2019</b:Tag>
+    <b:SourceType>Report</b:SourceType>
+    <b:Author>
+      <b:Corporate>W3C Verifiable Credentials Working Group</b:Corporate>
+    </b:Author>
+    <b:Title>Verifiable Credentials Data Model 1.0</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Publisher>World Wide Web Consortium</b:Publisher>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>NarulaVasquezVirza2018</b:Tag>
+    <b:SourceType>ConferenceProceedings</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Narula</b:Last>
+          <b:First>Rivest</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Vasquez</b:Last>
+          <b:First>Carina</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Virza</b:Last>
+          <b:First>Madars</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>zkLedger: Privacy-preserving auditing for distributed ledgers</b:Title>
+    <b:ConferenceName>USENIX Symposium on Networked Systems Design and Implementation</b:ConferenceName>
+    <b:Year>2018</b:Year>
+    <b:Pages>65-80</b:Pages>
+  </b:Source>
+
+  <b:Source>
+    <b:Tag>FuDuanMassey2024</b:Tag>
+    <b:SourceType>JournalArticle</b:SourceType>
+    <b:Author>
+      <b:NameList>
+        <b:Person>
+          <b:Last>Fu</b:Last>
+          <b:First>Min</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Duan</b:Last>
+          <b:First>Jian</b:First>
+        </b:Person>
+        <b:Person>
+          <b:Last>Massey</b:Last>
+          <b:First>Andrew</b:First>
+        </b:Person>
+      </b:NameList>
+    </b:Author>
+    <b:Title>Blockchain based trust systems and economic governance</b:Title>
+    <b:JournalName>Journal of Economic Behavior and Organization</b:JournalName>
+    <b:Year>2024</b:Year>
+    <b:Volume>219</b:Volume>
+    <b:Pages>187-206</b:Pages>
+  </b:Source>
+</b:Sources>
