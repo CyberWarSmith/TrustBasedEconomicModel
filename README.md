@@ -24,20 +24,6 @@ Modern economic systems rely heavily on trust while providing few mechanisms to 
 
 TBEM investigates whether trust can be formalized, verified, and exchanged without relying on capital accumulation or centralized enforcement.
 
-## Repository structure
-
-- `whitepaper/`  
-  The formal TBEM whitepaper, including theoretical foundations and simulation findings.
-
-- `simulation/`  
-  A NetLogo agent based model used to explore trust dynamics, Goodhart effects, Sybil resistance, and systemic stability.
-
-- `figures/`  
-  Visual outputs generated from simulation runs.
-
-- `references/`  
-  Bibliographic and citation management files.
-
 ## Status
 
 This project is exploratory and under active development.  
